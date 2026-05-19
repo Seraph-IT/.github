@@ -312,26 +312,26 @@ $ # IT that takes responsibility.
 <a href="https://github.com/Seraph-IT">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Seraph-IT&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=E63946&icon_color=1D4ED8&text_color=FFFFFF&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=GaaraSeraph&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=E63946&icon_color=1D4ED8&text_color=FFFFFF&include_all_commits=true&count_private=true"
     alt="Seraph-IT GitHub stats"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph-IT&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=E63946&text_color=FFFFFF&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaaraSeraph&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=E63946&text_color=FFFFFF&langs_count=8"
     alt="Top languages"
   />
 </a>
 <br/>
 <a href="https://github.com/Seraph-IT">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Seraph-IT&theme=black-ice&hide_border=true&background=0B0F1A&stroke=1D4ED8&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GaaraSeraph&theme=black-ice&hide_border=true&background=0B0F1A&stroke=1D4ED8&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
     alt="Streak"
   />
 </a>
 <br/><br/>
 <a href="https://github.com/Seraph-IT">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Seraph-IT&bg_color=0B0F1A&color=FFFFFF&line=E63946&point=1D4ED8&area=true&area_color=1D4ED8&hide_border=true&custom_title=Engineering%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GaaraSeraph&bg_color=0B0F1A&color=FFFFFF&line=E63946&point=1D4ED8&area=true&area_color=1D4ED8&hide_border=true&custom_title=Engineering%20Activity"
     width="98%"
     alt="Activity graph"
   />
