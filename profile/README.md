@@ -2,15 +2,15 @@
 ============================================================================
   SERAPH-IT · GitHub Organization Profile
   ----------------------------------------------------------------------------
-  Datei:   profile/README.md
-  Render:  https://github.com/Seraph-IT
-  Brand:   seraph-it.de  ·  "IT, die Verantwortung übernimmt."
+  File:    profile/README.md
+  Renders: https://github.com/Seraph-IT
+  Brand:   seraph-it.de  ·  "IT that takes responsibility."
   ----------------------------------------------------------------------------
-  Hinweise an Maintainer:
-    · Inline-SVGs sind als <img>-Datentag oder via Render-Services eingebunden,
-      damit GitHub sie auf .github-Profilen rendert.
-    · Bewege NICHT die <picture>-Blöcke — sie liefern Light/Dark-Versionen.
-    · Komplette Brand-Palette siehe Abschnitt "Brand System" am Dateiende.
+  Notes for maintainers:
+    · Inline SVGs are embedded via <img> data-tags or render services so
+      GitHub renders them on .github org profiles.
+    · Do NOT move the <picture> blocks — they deliver light/dark variants.
+    · Full brand palette in the "Brand System" comment at the bottom.
 ============================================================================
 -->
 
@@ -22,16 +22,16 @@
 
 <a href="https://seraph-it.de">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,15:1D4ED8,50:FFFFFF,85:E63946,100:0B0F1A&height=280&section=header&text=SERAPH-IT&fontSize=110&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=IT%2C%20die%20Verantwortung%20%C3%BCbernimmt.&descAlignY=58&descSize=22&stroke=E63946&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,15:1D4ED8,50:FFFFFF,85:E63946,100:0B0F1A&height=280&section=header&text=SERAPH-IT&fontSize=110&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=IT%20That%20Takes%20Responsibility.&descAlignY=58&descSize=22&stroke=E63946&strokeWidth=1"
     width="100%"
-    alt="Seraph-IT — IT, die Verantwortung übernimmt."
+    alt="Seraph-IT — IT That Takes Responsibility."
   />
 </a>
 
 <!-- ─── Animated typing manifest ─────────────────────────────────────── -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=900&color=E63946&center=true&vCenter=true&multiline=false&width=900&height=46&lines=%E2%96%B6+Defensive+Security+%C2%B7+ITSM+%C2%B7+Compliance-Engineering;%E2%96%B6+Frappe+%C2%B7+ERPNext+%C2%B7+Wazuh+%C2%B7+Helpdesk+%C2%B7+M365;%E2%96%B6+NIS2+%C2%B7+ISO%E2%80%AF27001+%C2%B7+BSI-Grundschutz+%C2%B7+DSGVO+Art.%E2%80%AF28;%E2%96%B6+70%25+aller+Anfragen+beantwortet+in+%E2%89%A4+2+Stunden;%E2%96%B6+Engineered+in+Germany+%E2%80%94+Hardened+for+Europe"/>
-  <img alt="Seraph-IT manifest" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=900&color=DC2626&center=true&vCenter=true&multiline=false&width=900&height=46&lines=%E2%96%B6+Defensive+Security+%C2%B7+ITSM+%C2%B7+Compliance-Engineering;%E2%96%B6+Frappe+%C2%B7+ERPNext+%C2%B7+Wazuh+%C2%B7+Helpdesk+%C2%B7+M365;%E2%96%B6+NIS2+%C2%B7+ISO%E2%80%AF27001+%C2%B7+BSI-Grundschutz+%C2%B7+DSGVO+Art.%E2%80%AF28;%E2%96%B6+70%25+aller+Anfragen+beantwortet+in+%E2%89%A4+2+Stunden;%E2%96%B6+Engineered+in+Germany+%E2%80%94+Hardened+for+Europe"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=900&color=E63946&center=true&vCenter=true&multiline=false&width=900&height=46&lines=%E2%96%B6+Defensive+Security+%C2%B7+ITSM+%C2%B7+Compliance+Engineering;%E2%96%B6+Frappe+%C2%B7+ERPNext+%C2%B7+Wazuh+%C2%B7+Helpdesk+%C2%B7+M365;%E2%96%B6+NIS2+%C2%B7+ISO%E2%80%AF27001+%C2%B7+BSI+Grundschutz+%C2%B7+GDPR+Art.%E2%80%AF28;%E2%96%B6+70%25+of+all+tickets+answered+in+%E2%89%A4+2+hours;%E2%96%B6+Engineered+in+Germany+%E2%80%94+Hardened+for+Europe"/>
+  <img alt="Seraph-IT manifest" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=900&color=DC2626&center=true&vCenter=true&multiline=false&width=900&height=46&lines=%E2%96%B6+Defensive+Security+%C2%B7+ITSM+%C2%B7+Compliance+Engineering;%E2%96%B6+Frappe+%C2%B7+ERPNext+%C2%B7+Wazuh+%C2%B7+Helpdesk+%C2%B7+M365;%E2%96%B6+NIS2+%C2%B7+ISO%E2%80%AF27001+%C2%B7+BSI+Grundschutz+%C2%B7+GDPR+Art.%E2%80%AF28;%E2%96%B6+70%25+of+all+tickets+answered+in+%E2%89%A4+2+hours;%E2%96%B6+Engineered+in+Germany+%E2%80%94+Hardened+for+Europe"/>
 </picture>
 
 <br/>
@@ -84,14 +84,14 @@
 
 <!-- ─── Compliance & Trust Badges ────────────────────────────────────── -->
 <p>
-  <img alt="NIS2 Art. 21"        src="https://img.shields.io/badge/NIS2-Article%2021-E63946?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=0B0F1A"/>
-  <img alt="ISO 27001"           src="https://img.shields.io/badge/ISO%2027001-Aligned-1D4ED8?style=for-the-badge&logo=verizon&logoColor=white&labelColor=0B0F1A"/>
-  <img alt="BSI Grundschutz"     src="https://img.shields.io/badge/BSI-Grundschutz-E63946?style=for-the-badge&logo=lock&logoColor=white&labelColor=0B0F1A"/>
-  <img alt="DSGVO Art. 28"       src="https://img.shields.io/badge/DSGVO-Art.%2028-FFFFFF?style=for-the-badge&logo=gnuprivacyguard&logoColor=0B0F1A&labelColor=FFFFFF"/>
-  <img alt="DORA-ready"          src="https://img.shields.io/badge/DORA-Ready-1D4ED8?style=for-the-badge&logo=europeanunion&logoColor=white&labelColor=0B0F1A"/>
-  <img alt="VDS 10000"           src="https://img.shields.io/badge/VDS-10000-E63946?style=for-the-badge&logo=verizon&logoColor=white&labelColor=0B0F1A"/>
-  <img alt="CIS Benchmarks"      src="https://img.shields.io/badge/CIS-Benchmarks-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B0F1A"/>
-  <img alt="Made in Germany"     src="https://img.shields.io/badge/Made%20in-Germany-FFFFFF?style=for-the-badge&logo=mapbox&logoColor=0B0F1A&labelColor=FFFFFF"/>
+  <img alt="NIS2 Art. 21"    src="https://img.shields.io/badge/NIS2-Article%2021-E63946?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=0B0F1A"/>
+  <img alt="ISO 27001"       src="https://img.shields.io/badge/ISO%2027001-Aligned-1D4ED8?style=for-the-badge&logo=verizon&logoColor=white&labelColor=0B0F1A"/>
+  <img alt="BSI Grundschutz" src="https://img.shields.io/badge/BSI-Grundschutz-E63946?style=for-the-badge&logo=lock&logoColor=white&labelColor=0B0F1A"/>
+  <img alt="GDPR Art. 28"    src="https://img.shields.io/badge/GDPR-Art.%2028-FFFFFF?style=for-the-badge&logo=gnuprivacyguard&logoColor=0B0F1A&labelColor=FFFFFF"/>
+  <img alt="DORA-ready"      src="https://img.shields.io/badge/DORA-Ready-1D4ED8?style=for-the-badge&logo=europeanunion&logoColor=white&labelColor=0B0F1A"/>
+  <img alt="VDS 10000"       src="https://img.shields.io/badge/VDS-10000-E63946?style=for-the-badge&logo=verizon&logoColor=white&labelColor=0B0F1A"/>
+  <img alt="CIS Benchmarks"  src="https://img.shields.io/badge/CIS-Benchmarks-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B0F1A"/>
+  <img alt="Made in Germany" src="https://img.shields.io/badge/Made%20in-Germany-FFFFFF?style=for-the-badge&logo=mapbox&logoColor=0B0F1A&labelColor=FFFFFF"/>
 </p>
 
 </div>
@@ -102,17 +102,17 @@
 
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=2500&color=E63946&center=true&vCenter=true&width=720&height=44&lines=%E2%9D%96+Wer+wir+sind"/>
-    <img alt="Wer wir sind" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=2500&color=DC2626&center=true&vCenter=true&width=720&height=44&lines=%E2%9D%96+Wer+wir+sind"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=2500&color=E63946&center=true&vCenter=true&width=720&height=44&lines=%E2%9D%96+Who+We+Are"/>
+    <img alt="Who We Are" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=2500&color=DC2626&center=true&vCenter=true&width=720&height=44&lines=%E2%9D%96+Who+We+Are"/>
   </picture>
 </h2>
 
 <p align="center">
-  <b>Seraph-IT</b> ist der IT-&amp;-Security-Partner aus <b>Köln</b> für Fertigung, Handwerk und
-  technische Dienstleister im Rheinland.<br/>
-  Wir übernehmen den IT-Betrieb damit du dein Kerngeschäft machen kannst — mit
-  <b>klaren SLAs</b>, <b>transparenten Prozessen</b> und ohne Vendor-Lock-In.<br/><br/>
-  <i>„Wir lösen Probleme in garantierten Zeitfenstern.<br/>Nicht in Ausreden."</i>
+  <b>Seraph-IT</b> is the IT &amp; Security partner from <b>Cologne, Germany</b> for manufacturing,
+  trades, and technical service providers in the Rhine region.<br/>
+  We take ownership of your IT operations so you can focus on your core business — with
+  <b>clear SLAs</b>, <b>transparent processes</b>, and zero vendor lock-in.<br/><br/>
+  <i>"We solve problems within guaranteed timeframes.<br/>Not with excuses."</i>
 </p>
 
 ---
@@ -127,15 +127,15 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-%E2%89%A4%202%20h-E63946?style=for-the-badge&labelColor=0B0F1A&label=RESPONSE%20SLA"/>
-<br/><sub>70 % aller Tickets beantwortet</sub>
+<br/><sub>70% of all tickets answered</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/-4-1D4ED8?style=for-the-badge&labelColor=0B0F1A&label=STANDORTE%20DE"/>
-<br/><sub>Köln · Rheinland · Remote</sub>
+<img src="https://img.shields.io/badge/-4-1D4ED8?style=for-the-badge&labelColor=0B0F1A&label=LOCATIONS%20DE"/>
+<br/><sub>Cologne · Rhine region · Remote</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/-3%E2%80%93200-FFFFFF?style=for-the-badge&labelColor=0B0F1A&label=ZIELKUNDEN%20MA"/>
-<br/><sub>technische KMU &amp; KRITIS-nah</sub>
+<img src="https://img.shields.io/badge/-3%E2%80%93200-FFFFFF?style=for-the-badge&labelColor=0B0F1A&label=TARGET%20CLIENTS"/>
+<br/><sub>technical SMEs &amp; critical infrastructure-adjacent</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-0-E63946?style=for-the-badge&labelColor=0B0F1A&label=VENDOR%20LOCK-IN"/>
@@ -152,7 +152,7 @@
      ░▒▓█ DIVISIONS  █▓▒░
      ════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">⚙️&nbsp;&nbsp;Zwei Divisionen — ein Versprechen</h2>
+<h2 align="center">⚙️&nbsp;&nbsp;Two Divisions — One Promise</h2>
 
 <table>
 <tr>
@@ -162,30 +162,30 @@
 
 <sub>Audit-first. Test-first. Defense-in-depth.</sub>
 
-- 🖥️ &nbsp; **Workplace** — PC / Mac / Linux, Onboarding, Geräteleasing
-- ☁️ &nbsp; **Microsoft 365 & Communications** — Lizenzen, Security, VoIP
-- 🧱 &nbsp; **Server & Infrastruktur** — Proxmox, Storage, Backup, Virtualisierung
-- 🔥 &nbsp; **Network Security** — Firewall-Management, Segmentierung, VPN
-- 🚨 &nbsp; **Defensive Security** — Wazuh-SOC, Incident-Response, Threat-Hunting
-- 📜 &nbsp; **Compliance-Engineering** — NIS2 · ISO 27001 · BSI · DORA · VDS 10000
-- 🛰️ &nbsp; **Proactive Monitoring** — 24/7, Patch- & Vulnerability-Management
-- 🇪🇺 &nbsp; **Digitale Souveränität** — Nextcloud, Proxmox, OSS-Stack
+- 🖥️ &nbsp; **Workplace** — PC / Mac / Linux, onboarding, device leasing
+- ☁️ &nbsp; **Microsoft 365 & Communications** — licensing, security, VoIP
+- 🧱 &nbsp; **Server & Infrastructure** — Proxmox, storage, backup, virtualisation
+- 🔥 &nbsp; **Network Security** — firewall management, segmentation, VPN
+- 🚨 &nbsp; **Defensive Security** — Wazuh SOC, incident response, threat hunting
+- 📜 &nbsp; **Compliance Engineering** — NIS2 · ISO 27001 · BSI · DORA · VDS 10000
+- 🛰️ &nbsp; **Proactive Monitoring** — 24/7, patch & vulnerability management
+- 🇪🇺 &nbsp; **Digital Sovereignty** — Nextcloud, Proxmox, open-source stack
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp;Division&nbsp;II &nbsp;·&nbsp; KI&nbsp;&amp;&nbsp;Automation
+### 🤖 &nbsp;Division&nbsp;II &nbsp;·&nbsp; AI&nbsp;&amp;&nbsp;Automation
 
-<sub>Vom Prozess-Audit bis zum produktiven Agenten.</sub>
+<sub>From process audit to production-ready agent.</sub>
 
-- 📄 &nbsp; **Dokumenten-Automation** — Extraktion, Klassifikation, Routing
-- 🔍 &nbsp; **Prozess-Analyse** — Bottleneck-Mapping, ROI-Modelle
-- 🧠 &nbsp; **Assistenz-Systeme** — RAG, interne Copilots, Wissensbasen
-- 📊 &nbsp; **KI-Auswertungen** — Forecasting, Anomalien, Reporting
-- 🧾 &nbsp; **Buchhaltungs-Automation** — Belegerkennung, DATEV-Brücken
-- 🏗️ &nbsp; **VOB/B-Automation** — Bauleistungs-Workflows, digitale Aufmaße
-- 🛒 &nbsp; **Baustellen-Bestellsysteme** — mobil, offline-fähig, ERPNext-gebunden
-- 🧭 &nbsp; **Software-Auswahl-Beratung** — neutral, vendor-frei, dokumentiert
+- 📄 &nbsp; **Document Automation** — extraction, classification, routing
+- 🔍 &nbsp; **Process Analysis** — bottleneck mapping, ROI modelling
+- 🧠 &nbsp; **Assistance Systems** — RAG, internal copilots, knowledge bases
+- 📊 &nbsp; **AI-Driven Evaluations** — forecasting, anomaly detection, reporting
+- 🧾 &nbsp; **Automated Accounting** — document recognition, DATEV bridges
+- 🏗️ &nbsp; **VOB/B Automation** — construction workflows, digital site logs
+- 🛒 &nbsp; **Site Ordering Systems** — mobile, offline-capable, ERPNext-bound
+- 🧭 &nbsp; **Software Selection Consulting** — vendor-neutral, fully documented
 
 </td>
 </tr>
@@ -197,17 +197,17 @@
      ░▒▓█ HOW WE BUILD  █▓▒░
      ════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏗️&nbsp;&nbsp;Wie wir bauen</h2>
+<h2 align="center">🏗️&nbsp;&nbsp;How We Build</h2>
 
 <div align="center">
 
 <table>
 <tr>
-  <td align="center" width="20%"><b>🔒 Audit-first</b><br/><sub>Jeder Workflow taggt seine<br/>Compliance-Pflichten im Code</sub></td>
-  <td align="center" width="20%"><b>✅ Test-first</b><br/><sub>Keine PR ohne grüne CI,<br/>kein Merge ohne Review</sub></td>
-  <td align="center" width="20%"><b>📝 ADR-driven</b><br/><sub>Architektur-Entscheidungen<br/>sind dokumentiert</sub></td>
-  <td align="center" width="20%"><b>♻️ Idempotent</b><br/><sub>Migrations, Crons, Hooks —<br/>alles re-runnable</sub></td>
-  <td align="center" width="20%"><b>🧱 Defense-in-depth</b><br/><sub>Tenant-Binding, PII-Redaktion,<br/>Fail-closed-Validatoren</sub></td>
+  <td align="center" width="20%"><b>🔒 Audit-first</b><br/><sub>Every workflow tags its<br/>compliance obligations in code</sub></td>
+  <td align="center" width="20%"><b>✅ Test-first</b><br/><sub>No PR without green CI,<br/>no merge without review</sub></td>
+  <td align="center" width="20%"><b>📝 ADR-driven</b><br/><sub>Architecture decisions are<br/>documented, not verbal</sub></td>
+  <td align="center" width="20%"><b>♻️ Idempotent</b><br/><sub>Migrations, crons, hooks —<br/>everything re-runnable</sub></td>
+  <td align="center" width="20%"><b>🧱 Defense-in-depth</b><br/><sub>Tenant binding, PII redaction,<br/>fail-closed validators</sub></td>
 </tr>
 </table>
 
@@ -219,23 +219,23 @@
      ░▒▓█ INDUSTRIES  █▓▒░
      ════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏭&nbsp;&nbsp;Branchen, die wir verstehen</h2>
+<h2 align="center">🏭&nbsp;&nbsp;Industries We Understand</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Fertigung-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Handwerk-E63946?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Bau%20%26%20VOB-FFFFFF?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Immobilienverwaltung-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Maklerbüros-E63946?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Logistik-FFFFFF?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Manufacturing-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Trades%20%26%20Crafts-E63946?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Construction%20%26%20VOB-FFFFFF?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Property%20Management-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Real%20Estate%20Brokers-E63946?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Logistics-FFFFFF?style=for-the-badge&labelColor=0B0F1A"/>
 <br/>
-<img src="https://img.shields.io/badge/Steuerkanzleien-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Agenturen-E63946?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Accounting%20Firms-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Marketing%20Agencies-E63946?style=for-the-badge&labelColor=0B0F1A"/>
 <img src="https://img.shields.io/badge/E--Commerce-FFFFFF?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Software--Entwickler-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Fotografie-E63946?style=for-the-badge&labelColor=0B0F1A"/>
-<img src="https://img.shields.io/badge/Technische%20DL-FFFFFF?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Software%20Developers-1D4ED8?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Photography-E63946?style=for-the-badge&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/badge/Technical%20Services-FFFFFF?style=for-the-badge&labelColor=0B0F1A"/>
 
 </div>
 
@@ -245,7 +245,7 @@
      ░▒▓█ TECH STACK  █▓▒░
      ════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🧰&nbsp;&nbsp;Tech-Stack</h2>
+<h2 align="center">🧰&nbsp;&nbsp;Tech Stack</h2>
 
 <div align="center">
 
@@ -279,15 +279,15 @@
      ░▒▓█ TERMINAL DEMO  █▓▒░
      ════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🖥️&nbsp;&nbsp;Live-Konsole</h2>
+<h2 align="center">🖥️&nbsp;&nbsp;Live Console</h2>
 
 ```bash
 $ ssh you@your-business.local
-[+] Audit-trail enabled  · NIS2 Art. 21 · DSGVO Art. 28
+[+] Audit-trail enabled   · NIS2 Art. 21 · GDPR Art. 28
 [+] Wazuh-Agent connected · 0 critical · 0 high · 0 medium
-[+] ERPNext              ok · 14 ms RTT
-[+] Helpdesk             ok · SLA p95 = 1h 42m
-[+] Backup chain         ok · last verified 04:12 UTC
+[+] ERPNext               ok · 14 ms RTT
+[+] Helpdesk              ok · SLA p95 = 1h 42m
+[+] Backup chain          ok · last verified 04:12 UTC
 
 $ seraph status
 ─────────────────────────────────────────────
@@ -296,7 +296,7 @@ $ seraph status
   Incidents     : 0    · MTTR p90: 23 min
 ─────────────────────────────────────────────
 
-$ # IT, die Verantwortung übernimmt.
+$ # IT that takes responsibility.
 ```
 
 ---
@@ -305,7 +305,7 @@ $ # IT, die Verantwortung übernimmt.
      ░▒▓█ GITHUB STATS  █▓▒░
      ════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📈&nbsp;&nbsp;Org-Signale</h2>
+<h2 align="center">📈&nbsp;&nbsp;Org Signals</h2>
 
 <div align="center">
 
@@ -345,26 +345,26 @@ $ # IT, die Verantwortung übernimmt.
      ░▒▓█ CTA · CONTACT  █▓▒░
      ════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🤝&nbsp;&nbsp;Sprich mit uns</h2>
+<h2 align="center">🤝&nbsp;&nbsp;Get in Touch</h2>
 
 <p align="center">
-  <i>Kostenfreie Erstberatung · Antwort in ≤ 2 h · Teams, Telefon oder Mail — wie du magst.</i>
+  <i>Free initial consultation · Response in ≤ 2 h · Teams, phone, or email — your choice.</i>
 </p>
 
 <div align="center">
 
-<a href="https://seraph-it.de"><img src="https://img.shields.io/badge/JETZT%20ANFRAGEN-E63946?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0B0F1A"/></a>
-<a href="https://seraph-it.de"><img src="https://img.shields.io/badge/Kostenfrei%20beraten%20lassen-1D4ED8?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0B0F1A"/></a>
+<a href="https://seraph-it.de"><img src="https://img.shields.io/badge/REQUEST%20NOW-E63946?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0B0F1A"/></a>
+<a href="https://seraph-it.de"><img src="https://img.shields.io/badge/Free%20Consultation-1D4ED8?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0B0F1A"/></a>
 <a href="mailto:engineering@seraph-it.de"><img src="https://img.shields.io/badge/engineering@seraph--it.de-FFFFFF?style=for-the-badge&logo=protonmail&logoColor=0B0F1A&labelColor=FFFFFF"/></a>
 
 <br/><br/>
 
 <a href="https://seraph-it.de"><img src="https://img.shields.io/badge/Website-seraph--it.de-1D4ED8?style=flat-square&logo=firefoxbrowser&logoColor=white&labelColor=0B0F1A"/></a>
-<a href="https://www.linkedin.com/company/seraph-it/"><img src="https://img.shields.io/badge/LinkedIn-Folgen-1D4ED8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F1A"/></a>
+<a href="https://www.linkedin.com/company/seraph-it/"><img src="https://img.shields.io/badge/LinkedIn-Follow-1D4ED8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F1A"/></a>
 <a href="https://www.instagram.com/seraph_it/"><img src="https://img.shields.io/badge/Instagram-@seraph__it-E63946?style=flat-square&logo=instagram&logoColor=white&labelColor=0B0F1A"/></a>
 <a href="https://www.facebook.com/seraphit/"><img src="https://img.shields.io/badge/Facebook-seraphit-1D4ED8?style=flat-square&logo=facebook&logoColor=white&labelColor=0B0F1A"/></a>
 <a href="https://www.youtube.com/@seraph-it"><img src="https://img.shields.io/badge/YouTube-Channel-E63946?style=flat-square&logo=youtube&logoColor=white&labelColor=0B0F1A"/></a>
-<a href="https://seraph-it.de"><img src="https://img.shields.io/badge/Standort-Köln%20%C2%B7%20DE-FFFFFF?style=flat-square&logo=googlemaps&logoColor=0B0F1A&labelColor=FFFFFF"/></a>
+<a href="https://seraph-it.de"><img src="https://img.shields.io/badge/Location-Cologne%20%C2%B7%20DE-FFFFFF?style=flat-square&logo=googlemaps&logoColor=0B0F1A&labelColor=FFFFFF"/></a>
 
 </div>
 
@@ -445,8 +445,8 @@ $ # IT, die Verantwortung übernimmt.
 
 <div align="center">
 
-<sub><i>„Seraphim — guardians at the gate."</i></sub><br/>
-<sub>© Seraph-IT GmbH · Köln · made with ❤️ &amp; <code>ruff check --fix</code></sub>
+<sub><i>"Seraphim — guardians at the gate."</i></sub><br/>
+<sub>© Seraph-IT GmbH · Cologne · made with ❤️ &amp; <code>ruff check --fix</code></sub>
 
 </div>
 
@@ -459,6 +459,6 @@ $ # IT, die Verantwortung übernimmt.
   Neutral    #FFFFFF   Signal White     (contrast, dividers)
   Surface    #0B0F1A   Obsidian         (backgrounds, terminals)
   Font       JetBrains Mono / Inter
-  Voice      Direct · Verbindlich · Ohne Tech-Jargon · Verantwortungsvoll
+  Voice      Direct · Accountable · No jargon · Responsible
 ============================================================================
 -->
