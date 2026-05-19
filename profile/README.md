@@ -415,12 +415,6 @@ $ # IT that takes responsibility.
     <path d="M72 128 Q94 122 110 134 Q126 122 148 128" />
   </g>
 
-  <!-- center sigil "S" -->
-  <text x="110" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="78" font-weight="700" fill="#E63946" filter="url(#shieldGlow)">
-    S
-    <animate attributeName="fill" values="#E63946;#FFFFFF;#1D4ED8;#E63946" dur="8s" repeatCount="indefinite"/>
-  </text>
-
   <!-- pulse halo -->
   <circle cx="110" cy="110" r="78" fill="none" stroke="#E63946" stroke-width="1.4" opacity="0.7">
     <animate attributeName="r" values="78;104;78" dur="3.6s" repeatCount="indefinite"/>
